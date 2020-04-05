@@ -1,0 +1,14 @@
+title: Cubic surfaces in RP3
+description: 
+source: https://twitter.com/stevejtrettel/status/1229477590420770816
+group: Topology
+
+title: Beautified Hopf Fibration: 
+description: 
+source: https://twitter.com/3Dmattias/status/1229224283265736705
+group: Topology
+
+title: Geometric Interpretation of Circle Inversion
+description: 
+source: https://twitter.com/matthen2/status/1246659217278160897
+group: Topology
